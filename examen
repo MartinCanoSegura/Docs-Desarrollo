@@ -1,0 +1,42 @@
+JPA --> 	JpaRepository,
+JDBC -->  	Templates:
+
+public void insert(cutomer c){
+string sql = "insert into cutomer c....";
+getJdbcTemplate().update(sql, new Object[]{cust.get}); }
+
+-------------------------------------------------------------------------------------------------
+Estereotipos spring
+@Component, @Service, @Controller, @Repository
+-------------------------------------------------------------------------------------------------
+POO
+abstraccion, Encapsulacion, herencia, polimorfismo
+-------------------------------------------------------------------------------------------------
+Sonarqube
+
+SonarQube es una plataforma web que se utiliza para analizar y cuantificar la calidad del código fuente.
+Es una herramienta de código abierto que provee varias ediciones dependiendo de las necesidades
+
+¿Cómo analizar un proyecto en SonarQube?
+Dentro del panel de SonarQube,
+en la parte superior derecha,
+haz click en el botón + para analizar un nuevo proyecto.
+2.4  Genera el comando de ejecución del scanner de la siguiente manera:
+2.5 Dentro de la carpeta del proyecto, ejecuta el comando copiado del paso anterior y deja que termine de escanear el proyecto
+-------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------
+¿Qué es Jira software y para qué sirve?
+Jira Software proporciona herramientas de planificación y hojas de ruta para gestionar a los equipos de desarrollo.
+
+-------------------------------
+Scrum
+es una metodología ágil con la que se diseñan productos en una serie de iteraciones de longitud fija.
+Hay cuatro pilares que conforman la estructura de esta metodología:
+1- la planificación de sprints,
+2- los stand ups (también llamadas scrums diarios),
+3- los sprints y las retrospectivas.
+
+Saliéndose de lo común, Jira Software viene con una completa serie de herramientas ágiles
+que harán que tu equipo de scrum lleve a cabo estos eventos con facilidad.

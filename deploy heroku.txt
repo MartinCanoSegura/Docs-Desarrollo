@@ -1,0 +1,7 @@
+
+ https://medicapp-backend-mcs.herokuapp.com
+ https://medicapp-fronted-mcs.herokuapp.com/#/login
+ 
+ chilinssky@yahoo.com.mx	111
+ mecano_mcs@hotmail.com		222
+ chilinsskyc@gmail.com		333

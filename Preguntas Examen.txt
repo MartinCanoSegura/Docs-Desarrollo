@@ -1,0 +1,25 @@
+1. Diferencia entre List y ArrayList
+	R:
+	a.- ArrayList: Es una interface List implementada mediante un array. mientras que List es una interfaz genérica
+	b.- List es una colección, y una colección puede ser interfaces y clase abstracta que nos permite identificar los objetos 
+		independientemente de la implementación. 
+		Es decir, son genéricas. Mientras, un ArrayList es contenedor que contiene una implementación de la colección List.
+
+2. Modificadores de acceso que maneja Java
+	R: public, private, default, protected
+
+3. Diferencia entre clase y objeto
+	R: Una clase es una plantilla para crear objetos. Un objeto es una instancia de una clase.
+
+4. Una clase puede tener constructor privado?
+	R: 	SI, pero solo se puede acceder a él dentro de la lisma clase patron de diseño de la clase singleton 
+		(cuando se limita el numero de objetos de esa clase a uno).
+
+5. Que estereotipos de spring conoces?
+	R: @Controller, @Service, @Repository, @Component
+
+6. Cuál es la diferencia de un Bean de spring y Pojo de java
+	R: 	Los Pojos no debe extender de ninguna clase pre-especificada, 
+		no debe implementar ninguna interface pre-especificada, 
+		no debe contener anotaciones pre-especificadas
+		mientras que java Bean si.

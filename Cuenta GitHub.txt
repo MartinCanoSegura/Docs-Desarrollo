@@ -1,0 +1,14 @@
+martin.cano.github@outlook.com
+Mecano007
+
+pass girhub:
+Mecano0078406358
+UserName gitHub:
+MartinCanoSegura
+
+token github: hpProBook
+https://github.com/MartinCanoSegura/ExamenGpoSalinas.git
+
+
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/
